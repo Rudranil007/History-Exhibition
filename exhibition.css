@@ -1,0 +1,121 @@
+body
+{
+    text-align: center;
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 9200px;
+    margin-top: 50px;
+}
+
+h4
+{
+    color:ghostwhite;
+}
+
+ul{
+    background-image: url("heading_back.jpg");
+    width: 1300px;
+    height:40px;
+}
+.corner
+{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+    font-family: 'Fredoka One', cursive;
+}
+
+.school
+{
+    float: right;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: -5px;
+}
+
+h4:hover
+{
+    font-size: 25px;
+    background-color: rgb(0, 255, 13);
+    color: blue;
+    margin-top: 5px;
+}
+
+#heading_1, #acknow, #exhibition_heading, #project_heading, #gandhi_heading, #cooperation_heading, #questions_heading
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    opacity: 1.0;
+}
+
+#statement, #acknow_para, #exhibition_para, #gandhi_para, #cooperation_para, #factors_para, #impact_para, #end_para
+{
+    font-size: 25px;
+    font-family: 'Lobster Two', cursive;
+    color: black;
+    opacity: 1.0;
+}
+
+#home_img
+{
+    width: 1300px;
+    height: 1800px;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+}
+
+#gandhi_img
+{
+    margin-left: 10px;
+    width: 550px;
+    height: 350px;
+    border-radius: 40px;
+}
+
+#cooperation_img
+{
+    background-size: cover;
+    opacity: 0.7;
+    border-radius: 40px;
+}
+
+#rowlatt
+{
+    width: 550px;
+    height: 450px;
+    border-radius: 40px;
+}
+
+#impact_img
+{
+    width: 500px;
+    height: 300px;
+    border-radius: 40px;
+}
+
+#end_img
+{
+    width: 600px;
+    height: 550px;
+    border-radius: 40px;
+}
+
+#thank_you
+{
+    width: 1400;
+    text-align: center;
+    border-radius: 50px;
+}
+
+h3
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Fugaz One', cursive;
+}

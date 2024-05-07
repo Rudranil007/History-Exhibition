@@ -1,0 +1,16 @@
+#heading_1{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.link{
+    float: right;
+    font-size: 18px;
+    padding: 5px;
+}
+
+body{
+    
+        background-image:url("gandhi.jpg");  
+        background-size:cover;
+    
+}
